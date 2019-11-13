@@ -1,0 +1,29 @@
+C:\Users\S.Apostolakopoulos\Desktop\PackageLoadingApplication\PackageLoadingApplication\bin\Debug\PackageLoadingApplication.exe.config
+C:\Users\S.Apostolakopoulos\Desktop\PackageLoadingApplication\PackageLoadingApplication\bin\Debug\PackageLoadingApplication.exe
+C:\Users\S.Apostolakopoulos\Desktop\PackageLoadingApplication\PackageLoadingApplication\bin\Debug\PackageLoadingApplication.pdb
+C:\Users\S.Apostolakopoulos\Desktop\PackageLoadingApplication\PackageLoadingApplication\obj\Debug\PackageLoadingApplication.csprojAssemblyReference.cache
+C:\Users\S.Apostolakopoulos\Desktop\PackageLoadingApplication\PackageLoadingApplication\obj\Debug\MainWindow.g.cs
+C:\Users\S.Apostolakopoulos\Desktop\PackageLoadingApplication\PackageLoadingApplication\obj\Debug\App.g.cs
+C:\Users\S.Apostolakopoulos\Desktop\PackageLoadingApplication\PackageLoadingApplication\obj\Debug\PackageLoadingApplication_MarkupCompile.cache
+C:\Users\S.Apostolakopoulos\Desktop\PackageLoadingApplication\PackageLoadingApplication\obj\Debug\PackageLoadingApplication_MarkupCompile.lref
+C:\Users\S.Apostolakopoulos\Desktop\PackageLoadingApplication\PackageLoadingApplication\obj\Debug\MainWindow.baml
+C:\Users\S.Apostolakopoulos\Desktop\PackageLoadingApplication\PackageLoadingApplication\obj\Debug\PackageLoadingApplication.g.resources
+C:\Users\S.Apostolakopoulos\Desktop\PackageLoadingApplication\PackageLoadingApplication\obj\Debug\PackageLoadingApplication.Properties.Resources.resources
+C:\Users\S.Apostolakopoulos\Desktop\PackageLoadingApplication\PackageLoadingApplication\obj\Debug\PackageLoadingApplication.csproj.GenerateResource.cache
+C:\Users\S.Apostolakopoulos\Desktop\PackageLoadingApplication\PackageLoadingApplication\obj\Debug\PackageLoadingApplication.csproj.CoreCompileInputs.cache
+C:\Users\S.Apostolakopoulos\Desktop\PackageLoadingApplication\PackageLoadingApplication\obj\Debug\PackageLoadingApplication.exe
+C:\Users\S.Apostolakopoulos\Desktop\PackageLoadingApplication\PackageLoadingApplication\obj\Debug\PackageLoadingApplication.pdb
+C:\Users\ΣΤΕΦΑΝΟΣ ΑΠΟΣΤΟΛΑΚΟΠ\Desktop\GitFolder\Upload In Github\PackageLoadingApplication\PackageLoadingApplication\bin\Debug\PackageLoadingApplication.exe.config
+C:\Users\ΣΤΕΦΑΝΟΣ ΑΠΟΣΤΟΛΑΚΟΠ\Desktop\GitFolder\Upload In Github\PackageLoadingApplication\PackageLoadingApplication\obj\Debug\PackageLoadingApplication.exe
+C:\Users\ΣΤΕΦΑΝΟΣ ΑΠΟΣΤΟΛΑΚΟΠ\Desktop\GitFolder\Upload In Github\PackageLoadingApplication\PackageLoadingApplication\obj\Debug\PackageLoadingApplication.pdb
+C:\Users\ΣΤΕΦΑΝΟΣ ΑΠΟΣΤΟΛΑΚΟΠ\Desktop\GitFolder\Upload In Github\PackageLoadingApplication\PackageLoadingApplication\bin\Debug\PackageLoadingApplication.exe
+C:\Users\ΣΤΕΦΑΝΟΣ ΑΠΟΣΤΟΛΑΚΟΠ\Desktop\GitFolder\Upload In Github\PackageLoadingApplication\PackageLoadingApplication\bin\Debug\PackageLoadingApplication.pdb
+C:\Users\ΣΤΕΦΑΝΟΣ ΑΠΟΣΤΟΛΑΚΟΠ\Desktop\GitFolder\Upload In Github\PackageLoadingApplication\PackageLoadingApplication\obj\Debug\PackageLoadingApplication.csprojResolveAssemblyReference.cache
+C:\Users\ΣΤΕΦΑΝΟΣ ΑΠΟΣΤΟΛΑΚΟΠ\Desktop\GitFolder\Upload In Github\PackageLoadingApplication\PackageLoadingApplication\obj\Debug\MainWindow.g.cs
+C:\Users\ΣΤΕΦΑΝΟΣ ΑΠΟΣΤΟΛΑΚΟΠ\Desktop\GitFolder\Upload In Github\PackageLoadingApplication\PackageLoadingApplication\obj\Debug\App.g.cs
+C:\Users\ΣΤΕΦΑΝΟΣ ΑΠΟΣΤΟΛΑΚΟΠ\Desktop\GitFolder\Upload In Github\PackageLoadingApplication\PackageLoadingApplication\obj\Debug\PackageLoadingApplication_MarkupCompile.cache
+C:\Users\ΣΤΕΦΑΝΟΣ ΑΠΟΣΤΟΛΑΚΟΠ\Desktop\GitFolder\Upload In Github\PackageLoadingApplication\PackageLoadingApplication\obj\Debug\PackageLoadingApplication_MarkupCompile.lref
+C:\Users\ΣΤΕΦΑΝΟΣ ΑΠΟΣΤΟΛΑΚΟΠ\Desktop\GitFolder\Upload In Github\PackageLoadingApplication\PackageLoadingApplication\obj\Debug\MainWindow.baml
+C:\Users\ΣΤΕΦΑΝΟΣ ΑΠΟΣΤΟΛΑΚΟΠ\Desktop\GitFolder\Upload In Github\PackageLoadingApplication\PackageLoadingApplication\obj\Debug\PackageLoadingApplication.g.resources
+C:\Users\ΣΤΕΦΑΝΟΣ ΑΠΟΣΤΟΛΑΚΟΠ\Desktop\GitFolder\Upload In Github\PackageLoadingApplication\PackageLoadingApplication\obj\Debug\PackageLoadingApplication.Properties.Resources.resources
+C:\Users\ΣΤΕΦΑΝΟΣ ΑΠΟΣΤΟΛΑΚΟΠ\Desktop\GitFolder\Upload In Github\PackageLoadingApplication\PackageLoadingApplication\obj\Debug\PackageLoadingApplication.csproj.GenerateResource.Cache
